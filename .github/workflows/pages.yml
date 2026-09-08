@@ -1,0 +1,62 @@
+name: Validate and publish Solanki Lab
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: solanki-pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build and check the approved website
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Read repository source
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Build static pages
+        run: python3 -B scripts/build-pages.py
+      - name: Check pages, links, assets, and source content
+        run: python3 scripts/check-site.py
+      - name: Check the animation and navigation scripts
+        run: |
+          node --check dist/site.js
+          node --check dist/universe.js
+          node scripts/check-navigation.cjs
+          node scripts/check-orbit.cjs
+      - name: Package public website files
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+          retention-days: 1
+
+  deploy:
+    name: Publish to free GitHub Pages
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check GitHub Pages configuration
+        uses: actions/configure-pages@v5
+      - name: Publish checked website
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+© 2026 Solanki Lab, South Dakota State University. All rights reserved.
+
+This notice applies to original Solanki Lab material to the extent the lab or its authors hold the relevant rights. Third-party figures, photographs, fonts, software, institutional branding, and trademarks remain the property of their respective owners. This notice does not claim ownership of third-party material or SDSU trademarks on behalf of the lab.
+
+Asset provenance and unresolved permission information are recorded in ASSET_SOURCES.md in the website source repository.

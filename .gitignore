@@ -1,0 +1,27 @@
+# The authored static files in dist/ are intentionally tracked.
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.cache/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+~$*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+credentials*
+private-backups/
+private-originals/
+*.bundle
+SolankiLab_*.zip

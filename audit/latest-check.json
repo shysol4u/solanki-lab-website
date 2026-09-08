@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks_passed": 3978,
+  "pages": 7,
+  "local_references": 356,
+  "guidelines_source_blocks": 183,
+  "public_bytes": 19145595,
+  "migration_fidelity": {
+    "approved_page_bodies_unchanged": 7,
+    "approved_non_html_files_unchanged": 50,
+    "only_head_metadata_and_support_files_added": true
+  },
+  "browser_testing": "Not performed by this source checker. This does not verify deployed HTTPS or real device rendering."
+}

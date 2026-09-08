@@ -4,6 +4,7 @@ from html import escape as e
 import json
 import re
 from guidelines_document import build_guidelines
+from publishing_metadata import metadata, write_support_files
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'dist'
@@ -42,6 +43,7 @@ def header(active=''):
 footer='''<footer class="site-footer"><div><a class="footer-brand" href="index.html">SOLANKI LAB</a><p>Functional Genomics · Plant–Microbe–Soil Interactions</p></div><div><a href="mailto:shyam.solanki@sdstate.edu">shyam.solanki@sdstate.edu</a><address class="contact-address"><strong>Shyam Solanki, PhD</strong><br>Assistant Professor<br>Functional Genomics of Plant Microbe Soil Interaction<br>Agronomy, Horticulture, &amp; Plant Science<br>South Dakota State University<br>Berg Agricultural Hall 251, Box 2100A<br>Brookings, SD 57007<br><a href="tel:+16056885032">(605) 688-5032</a></address></div><div class="footer-links"><a href="team.html">Our team</a><a href="guidelines.html">Lab guidelines</a><a href="research.html">Research</a></div></footer>'''
 
 def page(name,title,description,body,active='',home=False,extra_head=''):
+    extra_head += metadata(name, title, description)
     backdrop='<canvas id="universe" aria-hidden="true"></canvas><div class="shade" aria-hidden="true"></div>' if home else '<div class="quiet-backdrop" aria-hidden="true"></div>'
     scripts=f'<script src="site.js?{REV}" defer></script>'+(f'<script src="universe.js?{REV}" defer></script>' if home else '')
     html=f'''<!doctype html>
@@ -131,3 +133,4 @@ page('recruitment.html','Recruitment','Fellowship-supported opportunities, grant
 guidelines=build_guidelines()
 page('guidelines.html','Lab Guidelines','Read the complete Solanki Lab FG-PMSI guidelines, including research expectations, equipment, and HPC data storage and transfer.',guidelines,'Lab Guidelines',extra_head='<link rel="stylesheet" href="guidelines.css?v6-20260907">')
 print('Built homepage and six dedicated pages.')
+write_support_files()

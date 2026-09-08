@@ -1,0 +1,708 @@
+{
+  "migration": "Approved Version 6 unchanged; original media retained separately",
+  "mapped_images": [
+    {
+      "asset": "dist/assets/research/image1.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image1.png",
+      "original_backup_path": "original-assets/website-update-1/image1.png",
+      "source_sha256": "343825164b987bfc3611f94b954249a0a44386c773efc2822d61f64128549ae2",
+      "source_dimensions": [
+        640,
+        274
+      ],
+      "approved_web_sha256": "535b0a61e6ced2384babde06084cf2a42b60b05059aa42d6f7d5b5052fe5f4d9",
+      "web_dimensions": [
+        640,
+        274
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image10.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image10.png",
+      "original_backup_path": "original-assets/website-update-1/image10.png",
+      "source_sha256": "899dd1097c6c4f731adaf7cb651e0c788171c939fa83305e3de3cd9a8b340fc4",
+      "source_dimensions": [
+        767,
+        462
+      ],
+      "approved_web_sha256": "ccfe554dee5e6234ca1ad1996e8ceaeb3488f9547de3bf53b28fae6392619906",
+      "web_dimensions": [
+        767,
+        462
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image11.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image11.png",
+      "original_backup_path": "original-assets/website-update-1/image11.png",
+      "source_sha256": "38d1d29a4578950d82dd02693b9a645aa8c95a6f43e7642c6780217092565e30",
+      "source_dimensions": [
+        892,
+        432
+      ],
+      "approved_web_sha256": "3800917455fb95b40f2dd5cc012bbc002a8da84ffd29396bfe7bee85b5a240d3",
+      "web_dimensions": [
+        892,
+        432
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image12.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image12.png",
+      "original_backup_path": "original-assets/website-update-1/image12.png",
+      "source_sha256": "b07de29a131c61d7c5ceb2e8059b5956ff1591669853b9c3a0eb4a94952575a3",
+      "source_dimensions": [
+        451,
+        554
+      ],
+      "approved_web_sha256": "34a4927401e93b571dacebfdd00ce7aa156750a64cee0f794b7ac8a5f944528e",
+      "web_dimensions": [
+        451,
+        554
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image13.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image13.png",
+      "original_backup_path": "original-assets/website-update-1/image13.png",
+      "source_sha256": "5945787db9a9ebba39bc231b268c61bb631db99ad0586cf3de61688967cf64bd",
+      "source_dimensions": [
+        548,
+        730
+      ],
+      "approved_web_sha256": "f17d2ad54332cd5f85a5442b62f4dd8d6693947d666b9d839272398646fd5afe",
+      "web_dimensions": [
+        548,
+        730
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image14.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image14.png",
+      "original_backup_path": "original-assets/website-update-1/image14.png",
+      "source_sha256": "95c6729917f0bafff88a8b47d988e76b6643b3475085315ce722cb3c9ea3bdce",
+      "source_dimensions": [
+        583,
+        955
+      ],
+      "approved_web_sha256": "3d03442fe55fd9fc861326aed3d47b7272cc988fcece395a65be57a1bd97a6c9",
+      "web_dimensions": [
+        583,
+        955
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/image15.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image15.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image15.jpeg",
+      "source_sha256": "a5dc8eda73874b928fab592690f447240696a06b8b1de53c61891855c036284d",
+      "source_dimensions": [
+        478,
+        359
+      ],
+      "approved_web_sha256": "13c20b70a4105815a4d4199db1f0581bede4234fcb8604449b72b3e6197994b6",
+      "web_dimensions": [
+        359,
+        478
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/image16.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image16.png",
+      "original_backup_path": "original-assets/website-update-1/image16.png",
+      "source_sha256": "fc18c19d02e626be5053bbf589d23ab9c50a5346e1c4ead5e1a5deea98418f50",
+      "source_dimensions": [
+        395,
+        527
+      ],
+      "approved_web_sha256": "96e1759b6c251677ecf2152144aa66c7604c34d3a09c016d9836548ae7b04aae",
+      "web_dimensions": [
+        395,
+        527
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/image17.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image17.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image17.jpeg",
+      "source_sha256": "48dfda85855affa1aeaafe156d7cd91c85001e2ede0b966e736b120d2a893846",
+      "source_dimensions": [
+        580,
+        884
+      ],
+      "approved_web_sha256": "f685988635a1f31f6f4aafe1b9818031f5ea01c5e29b71c4c05b322841195253",
+      "web_dimensions": [
+        580,
+        884
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/image18.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image18.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image18.jpeg",
+      "source_sha256": "544cebe707193d5fde6acac603a6656e507b295495b4bc879ce8063934eda034",
+      "source_dimensions": [
+        419,
+        692
+      ],
+      "approved_web_sha256": "2981e620848c1add05e71f33ce439a045a239fbfc5c01612215acd37313d714f",
+      "web_dimensions": [
+        419,
+        692
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image19.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image19.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image19.jpeg",
+      "source_sha256": "34a1c4da650a021551103b2be4d64c2d0b75e12df223d04566bc10f7dc7e15d8",
+      "source_dimensions": [
+        922,
+        692
+      ],
+      "approved_web_sha256": "5cdb6b1ff0116b21e6e9ed4aebb5cd2d2d6c5383ab6fec9576d5d4b570acb0f3",
+      "web_dimensions": [
+        922,
+        692
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image2.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image2.png",
+      "original_backup_path": "original-assets/website-update-1/image2.png",
+      "source_sha256": "480bf7a29d938f49fb132d71e7e493c46dec2393929ccc9ea251197ab1b2ca1e",
+      "source_dimensions": [
+        422,
+        401
+      ],
+      "approved_web_sha256": "007d9af8004c7cac3505626a54a50c40966a75c1f4a9b32c7959f2d8df8bac8b",
+      "web_dimensions": [
+        422,
+        401
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image20.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image20.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image20.jpeg",
+      "source_sha256": "7c8384be581cd5d0d7fbf6ed70c3940966cac85856b849b501ebd142bf3bc383",
+      "source_dimensions": [
+        736,
+        553
+      ],
+      "approved_web_sha256": "b2ba2d57d1f0596f375162c1e1283bde777e877005d65e365213ed8fe976f912",
+      "web_dimensions": [
+        736,
+        553
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image21.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image21.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image21.jpeg",
+      "source_sha256": "a8cb4ab64c8a685decdd8eace8c2e427c5b30bfae5d507c49c32afffdcf0cc83",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "approved_web_sha256": "ad923bd710013db1a00776c4a9f1748f719a3154304594d40a40afb0c1ad115a",
+      "web_dimensions": [
+        2400,
+        1800
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image22.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image22.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image22.jpeg",
+      "source_sha256": "ce60e8da38fb2f023838ea795ee80f609cff7528f30e1672591310558ad23a17",
+      "source_dimensions": [
+        1134,
+        756
+      ],
+      "approved_web_sha256": "0a937b3d76c09f2087c0439b6892602af374a0e6c756a2804e1a4493fd30bb89",
+      "web_dimensions": [
+        1134,
+        756
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image23.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image23.jpeg",
+      "original_backup_path": "original-assets/website-update-1/image23.jpeg",
+      "source_sha256": "ef5d649ff2d9aef420b9976804f08914b0e703628bb895a30a87a4f4d6d4fd50",
+      "source_dimensions": [
+        801,
+        601
+      ],
+      "approved_web_sha256": "8cc27ddd53cc3a594b4486fd1cc4812f20736fd16f7f899c7699931adca927ae",
+      "web_dimensions": [
+        601,
+        801
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image24.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image24.png",
+      "original_backup_path": "original-assets/website-update-1/image24.png",
+      "source_sha256": "b95d7e1ad41a7dc11965f9f1055a1d47340991e17c579dee4e2e0b0831746506",
+      "source_dimensions": [
+        324,
+        188
+      ],
+      "approved_web_sha256": "000297ad3b318a41f524ac386221cfc0fb5132e9882e8dfe3d68f6d7c80d32f5",
+      "web_dimensions": [
+        324,
+        188
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/image25.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image25.png",
+      "original_backup_path": "original-assets/website-update-1/image25.png",
+      "source_sha256": "308f8dc07817346ddc5a7a3de4fbe5701ea999f4ce3ac682326808f923d7ed07",
+      "source_dimensions": [
+        2500,
+        1406
+      ],
+      "approved_web_sha256": "a2dba0aa164c788d561f21978c5a1f6fd6ff2dc46abf4c099042b77ec990a46c",
+      "web_dimensions": [
+        2400,
+        1350
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image3.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image3.png",
+      "original_backup_path": "original-assets/website-update-1/image3.png",
+      "source_sha256": "083d4454a1a0fa4bee60a7b58f784da7a97f04c21add3d9fb7b5ed0bca4202dd",
+      "source_dimensions": [
+        719,
+        472
+      ],
+      "approved_web_sha256": "f0785629271b5620791335d7d5aaf5784c221a6ab37c50340d4dd37791ca414c",
+      "web_dimensions": [
+        719,
+        472
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image4.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image4.png",
+      "original_backup_path": "original-assets/website-update-1/image4.png",
+      "source_sha256": "d53d54c877ee30e20ef41d847c7a5c042a02a9a1929244502f765577b672b0e8",
+      "source_dimensions": [
+        306,
+        313
+      ],
+      "approved_web_sha256": "8957d88a1346143bf1fe623238c0cb35fc9be9a9b6cc0576c8b5068adaf8815e",
+      "web_dimensions": [
+        306,
+        313
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image5.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image5.png",
+      "original_backup_path": "original-assets/website-update-1/image5.png",
+      "source_sha256": "6db4507ad7d2964934eb8a9f1d66bc98e569c5fee154f1ba8630444ac1c45405",
+      "source_dimensions": [
+        764,
+        740
+      ],
+      "approved_web_sha256": "ae1ef29fbea0fb30dd9f2e55287a22f0cfabf15fc708797778bc3392f4937b25",
+      "web_dimensions": [
+        764,
+        740
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image6.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image6.png",
+      "original_backup_path": "original-assets/website-update-1/image6.png",
+      "source_sha256": "c1648aa5bd7ef4382b9b536e7fa7461cac8bf24d814205dcf5621a10f9356dee",
+      "source_dimensions": [
+        716,
+        552
+      ],
+      "approved_web_sha256": "d70728a0dfd5710a6d37a614529ad9c4b6e1c9d5aa0a8ecbb01aeb4f2bbde41c",
+      "web_dimensions": [
+        716,
+        552
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image7.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image7.png",
+      "original_backup_path": "original-assets/website-update-1/image7.png",
+      "source_sha256": "bb9759f3f758a4eaa20f319f89cea8233766c8b8aa711f2bf700c494cd69c09e",
+      "source_dimensions": [
+        410,
+        411
+      ],
+      "approved_web_sha256": "cdb6a675905f34be8d3e4f2cea01fa6c77ef207740e21bfc18bbf8c53b55e802",
+      "web_dimensions": [
+        410,
+        411
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image8.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image8.png",
+      "original_backup_path": "original-assets/website-update-1/image8.png",
+      "source_sha256": "864c312ea3c38a87c77090ae3afb2fe51c17ffc83d25ef5a8245a715a108228c",
+      "source_dimensions": [
+        432,
+        412
+      ],
+      "approved_web_sha256": "f15d1ae21ab0f1df4a96c603be3cd5b076e890049d13fcf016dc0c6ab0ee9327",
+      "web_dimensions": [
+        432,
+        412
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/image9.webp",
+      "source_document": "WEBSITE_UPDATED.docx",
+      "source_member": "word/media/image9.png",
+      "original_backup_path": "original-assets/website-update-1/image9.png",
+      "source_sha256": "8d878a90a18d140b0d7a45782109d77a6287641759ac7dad18cc2448b23d020a",
+      "source_dimensions": [
+        1974,
+        311
+      ],
+      "approved_web_sha256": "e12e9ea5a328b56fc3cb86b3b1b301377172f446aefa184df4fc0e7adafdbeed",
+      "web_dimensions": [
+        1974,
+        311
+      ],
+      "existing_transform": "Existing approved WebP derivative; no change during migration",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/group-laboratory-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image1.jpeg",
+      "original_backup_path": "original-assets/website-update-2/image1.jpeg",
+      "source_sha256": "edf8cd7e0c56a638480da22b91eeb78bb4be6c29db807c102a4dba983e1c5629",
+      "source_dimensions": [
+        1077,
+        805
+      ],
+      "approved_web_sha256": "6efe7e05e01b54d6ffce5e18f686ea5e604cf4475afc3a028c6de06c21a29ae4",
+      "web_dimensions": [
+        1077,
+        805
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/group-team-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image2.jpeg",
+      "original_backup_path": "original-assets/website-update-2/image2.jpeg",
+      "source_sha256": "bf08fe95af74e9cd233c1b72000298fe070c3d49d2d95232e3e14e01f1b69bab",
+      "source_dimensions": [
+        1387,
+        1040
+      ],
+      "approved_web_sha256": "0bea82b60d89234457d4f0087b6c35098bdca42e13943d00f72d653591bb53fd",
+      "web_dimensions": [
+        1387,
+        1040
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/dsrna-attachment-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image3.png",
+      "original_backup_path": "original-assets/website-update-2/image3.png",
+      "source_sha256": "3ea6c65f344c902011470865998f407ff95d4796f8b720a8258f2a1f5234111a",
+      "source_dimensions": [
+        437,
+        313
+      ],
+      "approved_web_sha256": "80381321f3e4b1a835c210a7b4343cc3cca6a600c33279b08b1b7e52c2adba5c",
+      "web_dimensions": [
+        437,
+        313
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/rpg5-nlr-id-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image4.png",
+      "original_backup_path": "original-assets/website-update-2/image4.png",
+      "source_sha256": "ff6881b8780aa11a78a19351ab90c23ce3da5e00bbc16106dc2a22b1ef5fe9e7",
+      "source_dimensions": [
+        1821,
+        655
+      ],
+      "approved_web_sha256": "28edf744a623e6330f3d92d1feaefc1608559f7bddb436af8893fbc2ef978ba2",
+      "web_dimensions": [
+        1821,
+        655
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/outreach/stakeholder-engagement-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image5.jpeg",
+      "original_backup_path": "original-assets/website-update-2/image5.jpeg",
+      "source_sha256": "858b021fb4717e4f2e5180d91f6b2180a1c578ee5f98c83012b8bc65b726cf83",
+      "source_dimensions": [
+        1113,
+        834
+      ],
+      "approved_web_sha256": "afcdd03f9601d2329dd8cb38a5f9994f62de9192860f07b060432acbeb4b66d8",
+      "web_dimensions": [
+        1113,
+        834
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/shyam-solanki-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image6.jpeg",
+      "original_backup_path": "original-assets/website-update-2/image6.jpeg",
+      "source_sha256": "9f0dd741a9b57de78fae7266c19089c545d3c5eb1aeda0212edf85d755fde148",
+      "source_dimensions": [
+        1215,
+        567
+      ],
+      "approved_web_sha256": "25a9b786a4caf582bf0a023f05fd066321fb06345830e429b615d7cb5e228c60",
+      "web_dimensions": [
+        567,
+        1215
+      ],
+      "existing_transform": "90 degrees clockwise to match the Word drawing rotation",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/mrinmoy-sarker-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image7.png",
+      "original_backup_path": "original-assets/website-update-2/image7.png",
+      "source_sha256": "ed6b963506e23efb741ddc7a0c3c99bd1d2ba7e472ef18b2b0f6b4360bc8998d",
+      "source_dimensions": [
+        668,
+        682
+      ],
+      "approved_web_sha256": "361ca06ce973f5d7b99dfc2218463f60b03c3bdeb874da00cf48330d4d020db9",
+      "web_dimensions": [
+        668,
+        682
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/team/arsalan-quresh-v4.webp",
+      "source_document": "WEBSITE_UPDATED _2.docx",
+      "source_member": "word/media/image8.png",
+      "original_backup_path": "original-assets/website-update-2/image8.png",
+      "source_sha256": "c22e12781e26b3e4d99600e96639225b5b73aa0e20f284505c45d7fc7e5b874d",
+      "source_dimensions": [
+        402,
+        542
+      ],
+      "approved_web_sha256": "f151dc0c92647c0d2feda4282e36631e43206a5e7a914e063723304c662c0b88",
+      "web_dimensions": [
+        402,
+        542
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/biostimulant-culture-plates-v5.webp",
+      "source_document": "WEBSITE_UPDATED - 3.docx",
+      "source_member": "word/media/image1.png",
+      "original_backup_path": "original-assets/website-update-3/image1.png",
+      "source_sha256": "38d1d29a4578950d82dd02693b9a645aa8c95a6f43e7642c6780217092565e30",
+      "source_dimensions": [
+        892,
+        432
+      ],
+      "approved_web_sha256": "6a42dddb8d3de36c2c144651061f85c86d9f1c50dd5c529232845ead3af16134",
+      "web_dimensions": [
+        892,
+        432
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/soil-microbiome-corn-health-v5.webp",
+      "source_document": "WEBSITE_UPDATED - 3.docx",
+      "source_member": "word/media/image2.png",
+      "original_backup_path": "original-assets/website-update-3/image2.png",
+      "source_sha256": "b07de29a131c61d7c5ceb2e8059b5956ff1591669853b9c3a0eb4a94952575a3",
+      "source_dimensions": [
+        451,
+        554
+      ],
+      "approved_web_sha256": "b8fb0665047a3c57ca96bd85be742ad47bfc65a8f37233913dcf628f97b7e1a6",
+      "web_dimensions": [
+        451,
+        554
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/fungal-culture-v5.webp",
+      "source_document": "WEBSITE_UPDATED - 3.docx",
+      "source_member": "word/media/image3.png",
+      "original_backup_path": "original-assets/website-update-3/image3.png",
+      "source_sha256": "5945787db9a9ebba39bc231b268c61bb631db99ad0586cf3de61688967cf64bd",
+      "source_dimensions": [
+        548,
+        730
+      ],
+      "approved_web_sha256": "6cf0da4c09160db42bff6c3665a6e3be464f1e9d4681434098056f83c129c494",
+      "web_dimensions": [
+        548,
+        730
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    },
+    {
+      "asset": "dist/assets/research/culture-comparison-v5.webp",
+      "source_document": "WEBSITE_UPDATED - 3.docx",
+      "source_member": "word/media/image4.png",
+      "original_backup_path": "original-assets/website-update-3/image4.png",
+      "source_sha256": "7d482c0765f40dad1b1d5adf154e842b41aa8135c01e2952ac4919abcb6a10e2",
+      "source_dimensions": [
+        583,
+        322
+      ],
+      "approved_web_sha256": "c62abf0e409bd192bb6043f817d4e30db69546241f6d9af7f42d4eadaa4c7232",
+      "web_dimensions": [
+        583,
+        322
+      ],
+      "existing_transform": "none",
+      "credit_evidence": "No separately verified attribution record",
+      "rights_status": "User-supplied and previously approved; underlying ownership, license, and required credit unverified"
+    }
+  ]
+}
