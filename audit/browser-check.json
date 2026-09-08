@@ -1,0 +1,36 @@
+{
+  "verified_date": "2026-09-08",
+  "browser": "Cloud Chrome",
+  "viewport_css_pixels": {
+    "width": 1348,
+    "height": 927
+  },
+  "public_url": "https://shysol4u.github.io/solanki-lab-website/",
+  "site_commit": "6ecab33eeebb178cd31f1535d13405381bbac984",
+  "pages_opened": [
+    "index.html",
+    "research.html",
+    "team.html",
+    "outreach.html",
+    "funding.html",
+    "recruitment.html",
+    "guidelines.html"
+  ],
+  "passed": [
+    "Homepage visual rendering, approved logo and particle/DNA background",
+    "All five desktop dropdowns; opening another leaves only that menu open",
+    "Escape closes the open menu",
+    "Pause and Resume motion control transitions",
+    "Lab Guidelines navigation stays within the website",
+    "Guidelines Contents opens and the HPC section link scrolls to its native section",
+    "Guidelines image loaded; 13 h2 sections, 7 h3 subsections, and 4 preformatted code blocks",
+    "All seven pages opened; desktop width inspection found no document horizontal overflow"
+  ],
+  "limits": [
+    "Phone and tablet visual testing was not completed. Browser URL policy blocked the local responsive test harness; no bypass was attempted.",
+    "No physical-device, cross-browser, or formal performance benchmark was performed.",
+    "Reduced-motion, mobile menu, and detailed orbit hover/focus behavior are covered by the existing source/simulated checks, not claimed as real device tests.",
+    "Third-party external destinations were not exhaustively tested; approved hrefs are unchanged."
+  ],
+  "console_notes": "Captured errors originated in the cloud-browser extension; no website error is inferred from those extension messages."
+}

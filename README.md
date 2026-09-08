@@ -4,21 +4,21 @@ Functional Genomics of Plant–Microbe–Soil Interactions · South Dakota State
 
 This repository contains the complete editable website approved as **Version 6**, together with free GitHub Pages deployment and maintenance instructions. The migration preserves all seven visible page bodies and all 50 other approved website files. Publishing metadata, a sitemap, a robots file, and a copyright notice are the only website additions; they do not change the visible design.
 
-**Initial launch status:** the repository is prepared locally. Upload, GitHub Pages activation, and public HTTPS/browser verification require the owner's GitHub connection. See `LAUNCH_STATUS.md`. Do not treat the intended URL below as a verified live deployment until those steps are complete.
+**Public launch verified, 2026-09-08:** [Open the website](https://shysol4u.github.io/solanki-lab-website/). The original workflow succeeded, and all 60 served files match the prepared source exactly over HTTPS. Desktop checks passed; phone/tablet visual testing remains unverified. See `LAUNCH_STATUS.md` for evidence and limits.
 
 `MASTER_INSTRUCTION_MAP.md` maps all 45 instruction sections to their implementation and any remaining verification.
 
 | Item | Configuration |
 | --- | --- |
 | Owner account requested by the lab | `shysol4u` |
-| Intended repository | `shysol4u/solanki-lab-website` |
-| Intended free address | `https://shysol4u.github.io/solanki-lab-website/` |
-| Preferred optional custom domain | `solankilab.org`; not purchased or configured |
+| Repository | `shysol4u/solanki-lab-website` |
+| Public free address | `https://shysol4u.github.io/solanki-lab-website/` |
+| Requested final domain | `https://solankilab.org`; registration and DNS connection pending |
 | Production branch | `main` |
 | Hosting | GitHub Pages |
 | Deployment | `.github/workflows/pages.yml` |
 | Approved visual baseline | Version 6; tag `approved-v6` |
-| Initial technical release | `v6.0.0` after local launch preparation; public deployment still requires verification |
+| Initial technical release | `v6.0.0`; publicly deployed and verified, with browser-testing limits in `LAUNCH_STATUS.md` |
 
 ## How the site works
 
@@ -90,7 +90,7 @@ GitHub Pages supports static HTML/CSS/JavaScript and is available for public rep
 
 ## Domain, ownership, and backups
 
-`solankilab.org` is optional. Do not point the site at it until ownership is confirmed and any registration expense is explicitly approved. `DOMAIN_SETUP.md` records the later connection process. The free address works independently of a custom domain.
+The owner requested **https://solankilab.org** as the final website address on 2026-09-08. The registry currently returns no registration record and public DNS returns NXDOMAIN, so the domain is not connected yet. `DOMAIN_SETUP.md` records the prepared DNS settings and remaining registration step. The verified GitHub Pages address remains active until the domain is registered under the owner’s control and DNS/HTTPS are ready. Domain purchases require explicit approval under `AGENTS.md`.
 
 `COPYRIGHT.md` and `ASSET_SOURCES.md` distinguish lab content, university material, and third-party assets. Unverified rights are marked; no license is guessed.
 

@@ -1,0 +1,45 @@
+{
+  "checked_date_utc": "2026-09-08",
+  "requested_final_url": "https://solankilab.org/",
+  "current_verified_url": "https://shysol4u.github.io/solanki-lab-website/",
+  "rdap": {
+    "url": "https://rdap.publicinterestregistry.org/rdap/domain/solankilab.org",
+    "bootstrap_source": "https://data.iana.org/rdap/dns.json",
+    "http_status": 404,
+    "title": "Object not found"
+  },
+  "dns": {
+    "resolver": "https://dns.google/resolve",
+    "queries": [
+      {
+        "name": "solankilab.org",
+        "type": "A",
+        "status": 3,
+        "result": "NXDOMAIN"
+      },
+      {
+        "name": "solankilab.org",
+        "type": "NS",
+        "status": 3,
+        "result": "NXDOMAIN"
+      },
+      {
+        "name": "solankilab.org",
+        "type": "MX",
+        "status": 3,
+        "result": "NXDOMAIN"
+      }
+    ]
+  },
+  "interpretation": "No registry registration record or DNS delegation was found. Registrar checkout must confirm availability and final price.",
+  "domain_purchased": false,
+  "custom_domain_connected": false,
+  "custom_domain_https_verified": false,
+  "remaining": [
+    "Owner-approved registration expense and owner-controlled registrar account",
+    "GitHub ownership TXT verification",
+    "Pages custom-domain setting and apex/www DNS configuration",
+    "HTTPS provisioning, metadata update, deployment and public verification"
+  ],
+  "production_configuration_changed": false
+}

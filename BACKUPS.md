@@ -10,6 +10,13 @@ The original media are preserved at the best resolution actually supplied. A hig
 
 Backup limitation: the current local copy of the first `WEBSITE_UPDATED.docx` is incomplete. Its complete earlier extracted text, rendered PDF, extraction map, and all 26 original embedded media are retained instead, along with the partial container for diagnosis. The later source documents and complete editable Version 6 website are intact. No missing source document has been fabricated.
 
+## Confirmed public rollback identities
+
+- `approved-v6`: `e41091e276009d656c0e5a8cb68e900ad5e576ec`; also retained on `rollback/approved-v6`.
+- `v6.0.0`: `6ecab33eeebb178cd31f1535d13405381bbac984`.
+
+The imported GitHub commits have new IDs but exactly the same complete file trees as the original two launch commits. `audit/launch-provenance.json` records the mapping. The private bundles preserve the original commit objects and all earlier Versions 1–6; do not move existing tags or publish those private archives.
+
 ## Restore a normal future update
 
 Inspect GitHub history, identify the last working change, and use a revert commit on `main` when appropriate. Rebuild/check and let the standard workflow redeploy. Do not force-push away history or blindly patch production.

@@ -2,13 +2,23 @@
 
 The lab's established Version 1–6 names are preserved. `v6.0.0` denotes the technical GitHub launch package for the approved Version 6 design, not a redesigned Version 7.
 
+## Public launch verification — 2026-09-08
+
+- Create the owner-controlled public repository and import the exact approved baseline and all 92 prepared launch files.
+- Enable GitHub Pages with the original Actions workflow and enforced HTTPS; the launch run succeeds.
+- Verify that all 60 served public files return HTTP 200 and match the prepared bytes exactly.
+- Preserve `approved-v6`, `v6.0.0`, and the baseline rollback branch; keep original history and master backups private.
+- Check all seven pages and desktop controls in Chrome; record phone/tablet and other testing limitations explicitly.
+- Add deployment/browser/provenance records and update launch documentation. No website content, styles, scripts, animations, images, or workflow changes.
+- Record the owner’s requested final domain, `solankilab.org`, the registry/DNS findings, and prepared connection settings. Keep the working GitHub Pages address active while domain registration and owner control are pending.
+
 ## v6.0.0 — GitHub launch preparation, 2026-09-08
 
 - Preserve all seven approved Version 6 page bodies and all 50 other approved website files.
 - Prepare automatic GitHub Pages build/check/deploy from `main`, with no application backend or paid hosting dependency.
 - Add nonvisual canonical/social/copyright metadata, sitemap, robots file, and copyright notice.
 - Add source documentation, maintenance map, asset provenance, rollback instructions, and portable backups.
-- Public upload and deployment are pending owner GitHub authorization; do not describe this entry as a successful public launch until verified.
+- At preparation time, public upload/deployment were pending owner authorization; the verified launch is recorded above.
 
 ## Version 6 — approved website, 2026-09-07
 

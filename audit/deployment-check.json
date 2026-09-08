@@ -1,0 +1,428 @@
+{
+  "status": "passed",
+  "url": "https://shysol4u.github.io/solanki-lab-website/",
+  "files_checked": 60,
+  "results": [
+    {
+      "file": "assets/brand/bd.svg",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/favicon.png",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/in.svg",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/ng.svg",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/pk.svg",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/solanki-lab.png",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/brand/us.svg",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/guidelines/solanki-lab-source-logo.png",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image19.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image20.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image21.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image22.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image23.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image24.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/image25.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/outreach/stakeholder-engagement-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/biostimulant-culture-plates-v5.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/culture-comparison-v5.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/dsrna-attachment-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/fungal-culture-v5.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image1.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image10.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image11.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image12.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image13.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image14.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image2.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image3.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image5.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image6.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image7.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image8.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/image9.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/rpg5-nlr-id-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/research/soil-microbiome-corn-health-v5.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/arsalan-quresh-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/group-laboratory-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/group-team-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/image15.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/image16.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/image17.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/image18.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/mrinmoy-sarker-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "assets/team/shyam-solanki-v4.webp",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "copyright.txt",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "files/Solanki_Lab_FGPMSI.pdf",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "funding.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "guidelines.css",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "guidelines.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "outreach.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "recruitment.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "research.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "robots.txt",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "site.js",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "sitemap.xml",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "team.html",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    },
+    {
+      "file": "universe.js",
+      "status": 200,
+      "public_https": true,
+      "exact_bytes": true,
+      "passed": true
+    }
+  ],
+  "browser_testing": "Not covered by this HTTPS/byte comparison."
+}

@@ -1,0 +1,20 @@
+{
+  "source_archive": "SolankiLab_Website_v6_GitHub.zip",
+  "source_archive_sha256": "9479d48046f4bdecf775032d15f8bc479e1e579d34ae7df456bad6f01bf6364d",
+  "source_file_count": 92,
+  "source_tree": "dc63f5092fa1b98fe69049f2b61edc340eb4f142",
+  "original_approved_commit": "46a188f76c53d9d53b482e7d7081671e1b93b4c5",
+  "original_launch_commit": "368fea33fe95b1b83f57f88c6043b19350d80bef",
+  "github_approved_commit": "e41091e276009d656c0e5a8cb68e900ad5e576ec",
+  "github_launch_commit": "6ecab33eeebb178cd31f1535d13405381bbac984",
+  "baseline_tree": "22ccf01dfda2616be0307b07aef3d1636489b716",
+  "source_and_imported_trees_identical": true,
+  "deployment_workflow_run": 34223596184,
+  "deployment_workflow_url": "https://github.com/shysol4u/solanki-lab-website/actions/runs/34223596184",
+  "deployment_conclusion": "success",
+  "deployment_completed_utc": "2026-09-08T11:59:59Z",
+  "public_url": "https://shysol4u.github.io/solanki-lab-website/",
+  "served_files_verified": 60,
+  "served_files_exact_bytes": true,
+  "history_note": "GitHub import commits have new IDs; their complete file trees exactly match the two original launch-repository commits. Original commit objects and Versions 1\u20136 remain in the separate private bundles. No history was force-pushed or private backup uploaded."
+}
