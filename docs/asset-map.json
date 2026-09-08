@@ -1,0 +1,202 @@
+[
+  {
+    "source": "image1.png",
+    "asset": "assets/research/image1.webp",
+    "size": [
+      640,
+      274
+    ]
+  },
+  {
+    "source": "image10.png",
+    "asset": "assets/research/image10.webp",
+    "size": [
+      767,
+      462
+    ]
+  },
+  {
+    "source": "image11.png",
+    "asset": "assets/research/image11.webp",
+    "size": [
+      892,
+      432
+    ]
+  },
+  {
+    "source": "image12.png",
+    "asset": "assets/research/image12.webp",
+    "size": [
+      451,
+      554
+    ]
+  },
+  {
+    "source": "image13.png",
+    "asset": "assets/research/image13.webp",
+    "size": [
+      548,
+      730
+    ]
+  },
+  {
+    "source": "image14.png",
+    "asset": "assets/research/image14.webp",
+    "size": [
+      583,
+      955
+    ]
+  },
+  {
+    "source": "image15.jpeg",
+    "asset": "assets/team/image15.webp",
+    "size": [
+      359,
+      478
+    ]
+  },
+  {
+    "source": "image16.png",
+    "asset": "assets/team/image16.webp",
+    "size": [
+      395,
+      527
+    ]
+  },
+  {
+    "source": "image17.jpeg",
+    "asset": "assets/team/image17.webp",
+    "size": [
+      580,
+      884
+    ]
+  },
+  {
+    "source": "image18.jpeg",
+    "asset": "assets/team/image18.webp",
+    "size": [
+      419,
+      692
+    ]
+  },
+  {
+    "source": "image19.jpeg",
+    "asset": "assets/outreach/image19.webp",
+    "size": [
+      922,
+      692
+    ]
+  },
+  {
+    "source": "image2.png",
+    "asset": "assets/research/image2.webp",
+    "size": [
+      422,
+      401
+    ]
+  },
+  {
+    "source": "image20.jpeg",
+    "asset": "assets/outreach/image20.webp",
+    "size": [
+      736,
+      553
+    ]
+  },
+  {
+    "source": "image21.jpeg",
+    "asset": "assets/outreach/image21.webp",
+    "size": [
+      2400,
+      1800
+    ]
+  },
+  {
+    "source": "image22.jpeg",
+    "asset": "assets/outreach/image22.webp",
+    "size": [
+      1134,
+      756
+    ]
+  },
+  {
+    "source": "image23.jpeg",
+    "asset": "assets/outreach/image23.webp",
+    "size": [
+      601,
+      801
+    ]
+  },
+  {
+    "source": "image24.png",
+    "asset": "assets/outreach/image24.webp",
+    "size": [
+      324,
+      188
+    ]
+  },
+  {
+    "source": "image25.png",
+    "asset": "assets/outreach/image25.webp",
+    "size": [
+      2400,
+      1350
+    ]
+  },
+  {
+    "source": "image3.png",
+    "asset": "assets/research/image3.webp",
+    "size": [
+      719,
+      472
+    ]
+  },
+  {
+    "source": "image4.png",
+    "asset": "assets/research/image4.webp",
+    "size": [
+      306,
+      313
+    ]
+  },
+  {
+    "source": "image5.png",
+    "asset": "assets/research/image5.webp",
+    "size": [
+      764,
+      740
+    ]
+  },
+  {
+    "source": "image6.png",
+    "asset": "assets/research/image6.webp",
+    "size": [
+      716,
+      552
+    ]
+  },
+  {
+    "source": "image7.png",
+    "asset": "assets/research/image7.webp",
+    "size": [
+      410,
+      411
+    ]
+  },
+  {
+    "source": "image8.png",
+    "asset": "assets/research/image8.webp",
+    "size": [
+      432,
+      412
+    ]
+  },
+  {
+    "source": "image9.png",
+    "asset": "assets/research/image9.webp",
+    "size": [
+      1974,
+      311
+    ]
+  }
+]

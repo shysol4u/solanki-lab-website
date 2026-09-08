@@ -1,0 +1,1248 @@
+{
+  "source": "Solanki_Lab_FGPMSI_V1-source.docx",
+  "source_sha256": "0ac9579569eccbae3eb708694ab902a3aca56ca11e60c61a6552d6acb6980446",
+  "source_body_blocks": 199,
+  "omitted_empty_paragraphs": [
+    1,
+    43,
+    57,
+    68,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    153,
+    163,
+    197
+  ],
+  "blocks": [
+    {
+      "block": 0,
+      "kind": "image",
+      "text": ""
+    },
+    {
+      "block": 2,
+      "kind": "h1",
+      "text": "Solanki Lab "
+    },
+    {
+      "block": 3,
+      "kind": "p",
+      "text": "Functional Genomics: Plant-Microbe-Soil Interactions (FG-PMSI)"
+    },
+    {
+      "block": 4,
+      "kind": "h2",
+      "text": "1. Lab Philosophy"
+    },
+    {
+      "block": 5,
+      "kind": "p",
+      "text": "The Solanki Lab works across multiple areas of plant science, including functional genomics, plant-microbe-soil interactions, plant disease resistance, biotechnology, field research, laboratory experimentation, advance imaging, and computational data analysis."
+    },
+    {
+      "block": 6,
+      "kind": "p",
+      "text": "Because our research is diverse, students may be involved in very different types of work. Some may spend more time in the field, some may focus on wet-lab experiments, and others may work extensively with genomics, bioinformatics, imaging, or computational analysis. For this reason, we value an open culture of communication, discussion, and collaboration. Everyone should feel comfortable asking questions, sharing ideas, discussing problems, and learning from each other. At the same time, each person should respect the scientific focus, responsibilities, and expertise of other lab members. Our goal is to build an environment where everyone can develop independent scientific thinking while also benefiting from the knowledge and experience of the group."
+    },
+    {
+      "block": 7,
+      "kind": "h2",
+      "text": "2. Open-Door Policy"
+    },
+    {
+      "block": 8,
+      "kind": "li",
+      "text": "I follow an open-door policy in the lab. If my office door (Ber Ag Hall 251) is open an I am there, please feel free to come in.",
+      "list_id": "2",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 9,
+      "kind": "li",
+      "text": "Even if the door is closed, you are always welcome to stop by for exciting research results, good news, or anything related to your research or professional development.",
+      "list_id": "2",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 10,
+      "kind": "li",
+      "text": "At times, however, I may need uninterrupted time to focus on grant writing, reporting, teaching, research, outreach, or other university responsibilities (too much fun!!). During those periods, I may keep my door closed so I can concentrate. In that case, please send me an email or message and schedule a convenient time to meet.",
+      "list_id": "2",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 11,
+      "kind": "li",
+      "text": "I typically do not send emails late at night or during weekends, nor do I expect responses during those times, unless urgent communication is needed for issues such as instrument failure, critical experiments, or time-sensitive data needs.",
+      "list_id": "2",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 12,
+      "kind": "li",
+      "text": "I want everyone in the lab to feel comfortable approaching me while also understanding that a scheduled meeting works better.",
+      "list_id": "2",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 13,
+      "kind": "h2",
+      "text": "3. Communication and Email"
+    },
+    {
+      "block": 14,
+      "kind": "p",
+      "text": "Clear and timely communication is important for the smooth functioning of the lab."
+    },
+    {
+      "block": 15,
+      "kind": "li",
+      "text": "Whenever a lab-related communication is sent, either individually or through the FGPMSI group, please make sure to respond.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 16,
+      "kind": "li",
+      "text": "We generally expect a response within 24 hours, unless you are occupied with an important research activity, travel, teaching, or personal matters.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 17,
+      "kind": "li",
+      "text": "As the lab PI, I also try to respond to emails and messages within 24 hours.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 18,
+      "kind": "li",
+      "text": "If I happen to miss an email or message and the matter is urgent, please feel free to remind me in person or follow up directly.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 19,
+      "kind": "li",
+      "text": "For urgent matters involving experiments, equipment, plant care, safety, or other time-sensitive issues, clearly indicate the urgency.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 20,
+      "kind": "li",
+      "text": "Keep project-related communication clear and professional, particularly when communicating with collaborators, staff, faculty, or external researchers.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 21,
+      "kind": "li",
+      "text": "Keep the PI informed about important communication involving collaborations, manuscripts, research materials, data sharing, or major project decisions when appropriate.",
+      "list_id": "1",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 22,
+      "kind": "h2",
+      "text": "4. Lab Meetings"
+    },
+    {
+      "block": 23,
+      "kind": "p",
+      "text": "We have a weekly lab meeting, typically lasting about two hours."
+    },
+    {
+      "block": 24,
+      "kind": "p",
+      "text": "The format alternates between paper discussion and more detailed research discussion."
+    },
+    {
+      "block": 25,
+      "kind": "li",
+      "text": "Every alternate week, one student selects an important paper related to their research and leads the discussion.",
+      "list_id": "3",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 26,
+      "kind": "li",
+      "text": "During the alternate research-focused meeting, selected students present their ongoing research in more detail.",
+      "list_id": "3",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 27,
+      "kind": "li",
+      "text": "In every lab meeting, irrespective of the main presentation or discussion, all students provide a short update using approximately two slides.",
+      "list_id": "3",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 28,
+      "kind": "p",
+      "text": "The two-slide update should include:"
+    },
+    {
+      "block": 29,
+      "kind": "li",
+      "text": "work completed during the previous week;",
+      "list_id": "4",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 30,
+      "kind": "li",
+      "text": "important data or results generated;",
+      "list_id": "4",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 31,
+      "kind": "li",
+      "text": "plans for the coming week; and",
+      "list_id": "4",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 32,
+      "kind": "li",
+      "text": "the broader research plan for the month.",
+      "list_id": "4",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 33,
+      "kind": "p",
+      "text": "The purpose of these meetings is to share data regularly, identify problems early, discuss experimental ideas, and receive scientific input from the group. Because our lab works across field, laboratory, molecular, imaging, and computational research, these meetings are also an opportunity to learn from projects outside your immediate research area."
+    },
+    {
+      "block": 34,
+      "kind": "h2",
+      "text": "5. Lab Etiquette and Shared Responsibilities"
+    },
+    {
+      "block": 35,
+      "kind": "p",
+      "text": "Everyone is responsible for maintaining a clean, safe, and organized laboratory. Each person is responsible for:"
+    },
+    {
+      "block": 36,
+      "kind": "li",
+      "text": "keeping their own bench and work area clean;",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 37,
+      "kind": "li",
+      "text": "cleaning the hood after use;",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 38,
+      "kind": "li",
+      "text": "returning reagents, equipment, and supplies to the appropriate location;",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 39,
+      "kind": "li",
+      "text": "properly labeling and storing samples;",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 40,
+      "kind": "li",
+      "text": "disposing of waste appropriately;",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 41,
+      "kind": "li",
+      "text": "reporting damaged equipment or safety concerns; and",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 42,
+      "kind": "li",
+      "text": "not leaving materials in disorganized or inappropriate locations.",
+      "list_id": "5",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 44,
+      "kind": "h3",
+      "text": "Lab Police"
+    },
+    {
+      "block": 45,
+      "kind": "p",
+      "text": "The lab uses a rotating Lab Police roster, with responsibility changing approximately every 15 days."
+    },
+    {
+      "block": 46,
+      "kind": "p",
+      "text": "The role of Lab Police is to identify problems and help with the general maintenance and organization of the lab. Lab Police does not mean taking care of everybody else's responsibilities."
+    },
+    {
+      "block": 47,
+      "kind": "p",
+      "text": "During their rotation, Lab Police should help monitor:"
+    },
+    {
+      "block": 48,
+      "kind": "li",
+      "text": "overall laboratory cleanliness and organization;",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 49,
+      "kind": "li",
+      "text": "Maintaining molecular and field associated lab area rules.",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 50,
+      "kind": "li",
+      "text": "cleanliness of common areas and hoods;",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 51,
+      "kind": "li",
+      "text": "trash and waste bins;",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 52,
+      "kind": "li",
+      "text": "sinks and surrounding areas;",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 53,
+      "kind": "li",
+      "text": "common supplies and shared spaces;",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 54,
+      "kind": "li",
+      "text": "required signatures and routine inspection records; and",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 55,
+      "kind": "li",
+      "text": "laboratory safety items such as fire extinguishers and other required safety checks.",
+      "list_id": "14",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 56,
+      "kind": "p",
+      "text": "Each individual remains responsible for their own bench, materials, experiments, and general organization."
+    },
+    {
+      "block": 58,
+      "kind": "h2",
+      "text": "6. Expectations"
+    },
+    {
+      "block": 59,
+      "kind": "p",
+      "text": "As a lab member, you are responsible for taking ownership of your project in accordance with my input, project goals, and your assigned responsibilities. Publications are required before graduation.  I am flexible about work timing, but flexibility does not mean that we should have little or no interaction. Please make sure you are around the laboratory during reasonable working hours often enough to interact with me and other team members when needed. Any time within the general work window is usually a good opportunity to work alongside other lab members, discuss experiments, and ask questions. Please organize your work in a way that allows you to make steady progress while maintaining a healthy work-life balance. It is important to:"
+    },
+    {
+      "block": 60,
+      "kind": "li",
+      "text": "set clear goals; ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 61,
+      "kind": "li",
+      "text": "finish assigned tasks; ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 62,
+      "kind": "li",
+      "text": "plan your work ahead of time; ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 63,
+      "kind": "li",
+      "text": "meet project deadlines; ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 64,
+      "kind": "li",
+      "text": "regularly evaluate your progress; and ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 65,
+      "kind": "li",
+      "text": "communicate early if something is delaying your work. ",
+      "list_id": "15",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 66,
+      "kind": "p",
+      "text": "At the same time, your professional development should not come at the expense of your personal well-being. Think about what you want to achieve in the long term and work consistently toward those goals, while also making time for your family, loved ones, and personal life."
+    },
+    {
+      "block": 67,
+      "kind": "p",
+      "text": "I strongly believe that enjoying your work is important. When you are genuinely interested in what you are doing, research becomes less about counting hours or days and more about completing meaningful tasks and making progress. Some stages of research may require additional time and effort, depending on the experiment, deadlines, and your stage of training, but this should be managed thoughtfully and sustainably."
+    },
+    {
+      "block": 69,
+      "kind": "h2",
+      "text": "7. Scientific Independence and Teamwork"
+    },
+    {
+      "block": 70,
+      "kind": "p",
+      "text": "Lab members are expected to gradually take greater ownership of their research."
+    },
+    {
+      "block": 71,
+      "kind": "p",
+      "text": "As your experience grows, you should become increasingly independent in:"
+    },
+    {
+      "block": 72,
+      "kind": "li",
+      "text": "planning experiments;",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 73,
+      "kind": "li",
+      "text": "reading relevant literature;",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 74,
+      "kind": "li",
+      "text": "troubleshooting;",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 75,
+      "kind": "li",
+      "text": "analyzing data;",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 76,
+      "kind": "li",
+      "text": "interpreting results; and",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 77,
+      "kind": "li",
+      "text": "identifying the next scientific question.",
+      "list_id": "9",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 78,
+      "kind": "p",
+      "text": "At the same time, independence does not mean working in isolation."
+    },
+    {
+      "block": 79,
+      "kind": "p",
+      "text": "Because the lab includes people with different expertise, students are encouraged to help one another, discuss methods, share technical knowledge, and collaborate when appropriate. Scientific disagreement is welcome when it is respectful and supported by evidence or reasoning."
+    },
+    {
+      "block": 80,
+      "kind": "h2",
+      "text": "8. Larger Equipment and Shared Facilities"
+    },
+    {
+      "block": 81,
+      "kind": "p",
+      "text": "Please use them responsibly and leave them in appropriate condition for the next user."
+    },
+    {
+      "block": 82,
+      "kind": "h3",
+      "text": "BZX-1000 and Imaris"
+    },
+    {
+      "block": 83,
+      "kind": "p",
+      "text": "Before using BZX-1000 equipment:"
+    },
+    {
+      "block": 84,
+      "kind": "li",
+      "text": "ask or inform the person responsible for the instrument;",
+      "list_id": "13",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 85,
+      "kind": "li",
+      "text": "complete appropriate training before independent use;",
+      "list_id": "13",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 86,
+      "kind": "li",
+      "text": "check that the microscope, computer, accessories, and surrounding area are in proper condition before starting; and",
+      "list_id": "13",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 87,
+      "kind": "li",
+      "text": "after use, make sure everything is returned to its appropriate condition.",
+      "list_id": "13",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 88,
+      "kind": "p",
+      "text": "If you notice any problem before, during, or after use, please report it rather than leaving the problem for the next user."
+    },
+    {
+      "block": 89,
+      "kind": "h3",
+      "text": "Greenhouse Use"
+    },
+    {
+      "block": 90,
+      "kind": "p",
+      "text": "All greenhouse work should follow the general SDSU greenhouse guidelines. Each researcher is responsible for taking care of their own experiments or arranging appropriate care when they are unavailable. Please:"
+    },
+    {
+      "block": 91,
+      "kind": "li",
+      "text": "maintain appropriate cleanliness and organization;",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 92,
+      "kind": "li",
+      "text": "clearly label all experimental materials;",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 93,
+      "kind": "li",
+      "text": "keep plants and trays within the assigned space;",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 94,
+      "kind": "li",
+      "text": "clean work areas after use;",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 95,
+      "kind": "li",
+      "text": "dispose of plant material and soil appropriately; and",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 96,
+      "kind": "li",
+      "text": "follow greenhouse requirements related to plant care, sanitation, and shared space.",
+      "list_id": "12",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 97,
+      "kind": "h3",
+      "text": "Growth Chamber and Misting Chamber Use"
+    },
+    {
+      "block": 98,
+      "kind": "p",
+      "text": "When using growth chambers or misting chambers:"
+    },
+    {
+      "block": 99,
+      "kind": "li",
+      "text": "make the appropriate entry in the usage log;",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 100,
+      "kind": "li",
+      "text": "clearly identify the user, experiment, and materials;",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 101,
+      "kind": "li",
+      "text": "maintain cleanliness inside and around the chamber;",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 102,
+      "kind": "li",
+      "text": "avoid introducing soil, debris, or other materials into water reservoirs or misting systems;",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 103,
+      "kind": "li",
+      "text": "clean spilled soil, plant debris, trays, and unused materials after use; and",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 104,
+      "kind": "li",
+      "text": "report problems involving temperature, humidity, lighting, water supply, or other chamber functions.",
+      "list_id": "11",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 105,
+      "kind": "p",
+      "text": "Please leave the chamber in suitable condition for the next person."
+    },
+    {
+      "block": 106,
+      "kind": "h2",
+      "text": "9. Research Records and Data"
+    },
+    {
+      "block": 107,
+      "kind": "p",
+      "text": "Every experiment should be documented well enough that another lab member could understand what was done and reproduce the work."
+    },
+    {
+      "block": 108,
+      "kind": "p",
+      "text": "Records should include, where applicable:"
+    },
+    {
+      "block": 109,
+      "kind": "li",
+      "text": "experimental objective;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 110,
+      "kind": "li",
+      "text": "date;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 111,
+      "kind": "li",
+      "text": "sample identity;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 112,
+      "kind": "li",
+      "text": "treatments and controls;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 113,
+      "kind": "li",
+      "text": "replication;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 114,
+      "kind": "li",
+      "text": "protocol;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 115,
+      "kind": "li",
+      "text": "raw-data location;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 116,
+      "kind": "li",
+      "text": "analysis method;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 117,
+      "kind": "li",
+      "text": "important observations;",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 118,
+      "kind": "li",
+      "text": "conclusions; and",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 119,
+      "kind": "li",
+      "text": "next steps.",
+      "list_id": "10",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 120,
+      "kind": "p",
+      "text": "Raw data should not be selectively altered or removed because they do not fit the expected result."
+    },
+    {
+      "block": 121,
+      "kind": "p",
+      "text": "Mistakes can happen. Hiding a mistake is far more serious than making one."
+    },
+    {
+      "block": 122,
+      "kind": "p",
+      "text": "Large computational datasets, HPC use, data organization, and data-transfer procedures will be covered separately in the Solanki Lab HPC and Data Management Protocol."
+    },
+    {
+      "block": 123,
+      "kind": "h2",
+      "text": "10. HPC Data Storage and Transfer"
+    },
+    {
+      "block": 124,
+      "kind": "p",
+      "text": "We have a joint lab directory (folder) /mmfs1/scratch/jacks.local/SolankiLab/ in SDSU’s Innovator cluster in HPC and active lab members have their own subdirectory (I have master access to all). Because HPC storage is a paid lab resource, data should be kept on the HPC /scratch only while they are actively being analyzed. For active projects, sequencing, imaging, digitized field evaluation scores, and other datasets should be transferred to the appropriate Solanki Lab data-transfer folder."
+    },
+    {
+      "block": 125,
+      "kind": "code-line",
+      "text": "/mmfs1/scratch/jacks.local/SolankiLab/Data_transfer/"
+    },
+    {
+      "block": 126,
+      "kind": "p",
+      "text": "Please organize files within clearly named project folders and avoid unnecessary duplicate copies. Once active analysis is complete, the data should not remain indefinitely on HPC storage. Completed project data should be moved to PPMS for long-term storage. Please contact me before moving or archiving completed datasets so that we can confirm the appropriate location and make sure the required files are retained. Please refer to SDSU’s Research Cyberinfrastructure  webpage for usage documentation at https://help.sdstate.edu/TDClient/2744/Portal/KB/Category/21847/Research-Cyberinfrastructure"
+    },
+    {
+      "block": 127,
+      "kind": "h3",
+      "text": "Computer to HPC Using MobaXterm and rsync (alternate: FileZilla, Putty)  "
+    },
+    {
+      "block": 128,
+      "kind": "p",
+      "text": "For large datasets stored on a Windows computer, MobaXterm and rsync can be used because interrupted transfers can be restarted without retransferring everything. Run the command from the MobaXterm Local Terminal, not from a terminal that is already logged into the HPC."
+    },
+    {
+      "block": 129,
+      "kind": "p",
+      "text": "In MobaXterm, Windows drives normally appear as:"
+    },
+    {
+      "block": 130,
+      "kind": "code-line",
+      "text": "C:  →  /drives/c/"
+    },
+    {
+      "block": 131,
+      "kind": "code-line",
+      "text": "D:  →  /drives/d/"
+    },
+    {
+      "block": 132,
+      "kind": "code-line",
+      "text": "E:  →  /drives/e/"
+    },
+    {
+      "block": 133,
+      "kind": "p",
+      "text": "Example source path:"
+    },
+    {
+      "block": 134,
+      "kind": "code-line",
+      "text": "E:\\AWS_Data_Independent_Copy"
+    },
+    {
+      "block": 135,
+      "kind": "code-line",
+      "text": "/drives/e/AWS_Data_Independent_Copy/"
+    },
+    {
+      "block": 144,
+      "kind": "p",
+      "text": "Typical transfer command swap for your (swap with your login credentials):"
+    },
+    {
+      "block": 145,
+      "kind": "code-line",
+      "text": "rsync -avh \\"
+    },
+    {
+      "block": 146,
+      "kind": "code-line",
+      "text": "  --info=progress2 \\"
+    },
+    {
+      "block": 147,
+      "kind": "code-line",
+      "text": "  --partial \\"
+    },
+    {
+      "block": 148,
+      "kind": "code-line",
+      "text": "  --append-verify \\"
+    },
+    {
+      "block": 149,
+      "kind": "code-line",
+      "text": "  --stats \\"
+    },
+    {
+      "block": 150,
+      "kind": "code-line",
+      "text": "  -e \"ssh -l 'shyam.solanki@jacks.local' -o ServerAliveInterval=60 -o ServerAliveCountMax=10\" \\"
+    },
+    {
+      "block": 151,
+      "kind": "code-line",
+      "text": "  \"/drives/e/AWS_Data_Independent_Copy/\" \\"
+    },
+    {
+      "block": 152,
+      "kind": "code-line",
+      "text": " innovator.sdstate.edu:/mmfs1/scratch/jacks.local/SolankiLab/Data_transfer/PROJECT_FOLDER/"
+    },
+    {
+      "block": 154,
+      "kind": "h3",
+      "text": "Globus Transfers"
+    },
+    {
+      "block": 155,
+      "kind": "p",
+      "text": "For very large datasets or transfers between institutions, Globus is preferred when an appropriate endpoint is available. Confirm the source endpoint, the correct Solanki Lab destination folder, and available storage before starting. After completion, check the Globus transfer report for failed or skipped files."
+    },
+    {
+      "block": 156,
+      "kind": "h3",
+      "text": "General HPC Data Expectations"
+    },
+    {
+      "block": 157,
+      "kind": "li",
+      "text": "Keep only actively analyzed data on HPC.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 158,
+      "kind": "li",
+      "text": "Use the Solanki Lab Data_transfer folder for active incoming and working datasets.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 159,
+      "kind": "li",
+      "text": "Avoid unnecessary duplicate copies of large datasets.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 160,
+      "kind": "li",
+      "text": "Do not delete source data until the transfer has been verified.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 161,
+      "kind": "li",
+      "text": "Once analysis is complete, contact me and move the data to PPMS for long-term storage.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 162,
+      "kind": "li",
+      "text": "Do not delete or relocate another lab member’s shared data.",
+      "list_id": "16",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 164,
+      "kind": "h2",
+      "text": "11. Authorship and Scientific Credit"
+    },
+    {
+      "block": 165,
+      "kind": "p",
+      "text": "Authorship should reflect genuine scientific contribution. Contributions may include:"
+    },
+    {
+      "block": 166,
+      "kind": "li",
+      "text": "project design;",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 167,
+      "kind": "li",
+      "text": "experimental work;",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 168,
+      "kind": "li",
+      "text": "computational analysis;",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 169,
+      "kind": "li",
+      "text": "methodology development;",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 170,
+      "kind": "li",
+      "text": "data interpretation;",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 171,
+      "kind": "li",
+      "text": "writing; and",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 172,
+      "kind": "li",
+      "text": "substantial manuscript revision.",
+      "list_id": "8",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 173,
+      "kind": "p",
+      "text": "Authorship order may evolve as a project develops and contributions change. Scientific credit should be discussed openly and fairly."
+    },
+    {
+      "block": 174,
+      "kind": "h2",
+      "text": "12. Safety and Compliance"
+    },
+    {
+      "block": 175,
+      "kind": "p",
+      "text": "All required university and laboratory safety training must be completed before beginning relevant work. Everyone is responsible for following applicable:"
+    },
+    {
+      "block": 176,
+      "kind": "li",
+      "text": "laboratory safety requirements;",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 177,
+      "kind": "li",
+      "text": "chemical safety requirements;",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 178,
+      "kind": "li",
+      "text": "biosafety procedures;",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 179,
+      "kind": "li",
+      "text": "greenhouse guidelines;",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 180,
+      "kind": "li",
+      "text": "pathogen-handling procedures;",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 181,
+      "kind": "li",
+      "text": "recombinant DNA requirements; and",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 182,
+      "kind": "li",
+      "text": "other relevant university policies.",
+      "list_id": "7",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 183,
+      "kind": "p",
+      "text": "If you are unsure whether an activity requires training, permission, or approval, please ask me before proceeding."
+    },
+    {
+      "block": 184,
+      "kind": "h2",
+      "text": "13. Professional Development"
+    },
+    {
+      "block": 185,
+      "kind": "p",
+      "text": "Training in the lab should extend beyond simply completing experiments. Lab members are encouraged to develop skills in:"
+    },
+    {
+      "block": 186,
+      "kind": "li",
+      "text": "scientific writing;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 187,
+      "kind": "li",
+      "text": "oral presentations;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 188,
+      "kind": "li",
+      "text": "experimental design;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 189,
+      "kind": "li",
+      "text": "statistics;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 190,
+      "kind": "li",
+      "text": "computational biology;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 191,
+      "kind": "li",
+      "text": "grant and fellowship writing;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 192,
+      "kind": "li",
+      "text": "collaboration;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 193,
+      "kind": "li",
+      "text": "mentoring;",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 194,
+      "kind": "li",
+      "text": "leadership; and",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 195,
+      "kind": "li",
+      "text": "scientific communication.",
+      "list_id": "6",
+      "list_level": 0,
+      "source_marker": ""
+    },
+    {
+      "block": 196,
+      "kind": "p",
+      "text": "The goal is progressive independence: from learning how to perform experiments to developing scientific questions, designing studies, interpreting results, and communicating science confidently."
+    }
+  ]
+}

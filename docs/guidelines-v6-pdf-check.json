@@ -1,0 +1,20 @@
+{
+  "source_render_pages": 8,
+  "kept_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "removed_blank_pages": [
+    8
+  ],
+  "kept_page_content_streams_unchanged": true,
+  "kept_page_text_unchanged": true,
+  "kept_page_geometry_unchanged": true,
+  "last_page_has_no_text_or_painted_graphics": true,
+  "published_pdf_sha256": "825ba5892cef59a541568ac5454e9647c146ec906f938d79cbba938710184c3f"
+}

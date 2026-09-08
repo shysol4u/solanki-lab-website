@@ -1,0 +1,179 @@
+/* Version 6: loaded only by guidelines.html; every selector stays inside this page. */
+.guidelines-page {
+  width: min(900px, 88%);
+  padding-block: 64px 90px;
+}
+.guidelines-document {
+  min-width: 0;
+  color: var(--text);
+  font-size: 1.0625rem;
+  overflow-wrap: anywhere;
+}
+.guidelines-document-header {
+  display: grid;
+  grid-template-columns: 132px minmax(0, 1fr);
+  align-items: end;
+  column-gap: 28px;
+  padding-bottom: 30px;
+}
+.guidelines-source-logo {
+  grid-row: 1 / span 2;
+  margin: 0;
+}
+.guidelines-source-logo img {
+  width: 132px;
+  max-width: 100%;
+  height: auto;
+}
+.guidelines-document h1 {
+  font-size: clamp(2.25rem, 4.8vw, 3.4rem);
+  line-height: 1.2;
+}
+.guidelines-document .guidelines-subtitle {
+  margin: 12px 0 0;
+  color: var(--cyan);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+.guidelines-document h2 {
+  font-size: clamp(1.5rem, 2.8vw, 2rem);
+  line-height: 1.35;
+  letter-spacing: -.025em;
+  border-top: 1px solid var(--line);
+  margin: 52px 0 22px;
+  padding-top: 34px;
+}
+.guidelines-document h3 {
+  color: var(--cyan);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 30px 0 14px;
+}
+.guidelines-document h2[id],
+.guidelines-document h3[id] {
+  scroll-margin-top: 140px;
+}
+.guidelines-document p {
+  line-height: 1.85;
+  margin-bottom: 18px;
+}
+.guidelines-document strong {
+  font-weight: 700;
+}
+.guidelines-document em {
+  font-style: italic;
+  color: inherit;
+}
+.guidelines-document ul {
+  padding-left: 1.55rem;
+  margin-block: 12px 22px;
+}
+.guidelines-document li {
+  padding-left: .25rem;
+  margin-block: 9px;
+  line-height: 1.8;
+}
+.guidelines-document li::marker {
+  color: var(--cyan);
+}
+.guidelines-document .guidelines-diamond-list {
+  list-style-type: "❖  ";
+}
+.guidelines-document .guidelines-arrow-list {
+  list-style-type: "➢  ";
+}
+.guidelines-document a {
+  color: var(--cyan);
+  text-decoration: underline;
+  text-underline-offset: .2em;
+  text-decoration-thickness: 1px;
+}
+.guidelines-document a:hover {
+  color: #fff;
+}
+.guidelines-document a:focus-visible,
+.guidelines-document summary:focus-visible,
+.guidelines-document [tabindex]:focus-visible {
+  outline: 2px solid #b1edff;
+  outline-offset: 5px;
+}
+.guidelines-toc {
+  border-block: 1px solid var(--line);
+  padding-block: 4px;
+  margin-bottom: 16px;
+}
+.guidelines-toc summary {
+  padding-block: 13px;
+  min-height: 48px;
+  color: var(--cyan);
+  cursor: pointer;
+  font-weight: 600;
+}
+.guidelines-toc ol {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px;
+}
+.guidelines-toc ol ol {
+  padding-left: 20px;
+  margin: 0 0 8px;
+  border-left: 1px solid var(--line);
+}
+.guidelines-toc li {
+  margin: 0;
+  padding: 0;
+}
+.guidelines-toc a {
+  display: block;
+  padding-block: 8px;
+  line-height: 1.65;
+  font-size: .9375rem;
+  text-decoration: none;
+}
+.guidelines-toc a:hover {
+  text-decoration: underline;
+}
+.guidelines-document .guidelines-download {
+  font-size: .875rem;
+  margin-block: 18px 34px;
+}
+.guidelines-document code {
+  font-family: Consolas, "Liberation Mono", monospace;
+  font-size: .9em;
+  color: var(--cyan);
+}
+.guidelines-code {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  white-space: pre;
+  overflow-wrap: normal;
+  word-break: normal;
+  tab-size: 2;
+  margin: 18px 0 24px;
+  padding: 20px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  font-size: .9375rem;
+  line-height: 1.85;
+  scrollbar-color: #668da2 #0a141e;
+}
+.guidelines-code code {
+  font-size: inherit;
+  color: var(--text);
+}
+@media (max-width: 650px) {
+  .guidelines-page { padding-block: 42px 60px; }
+  .guidelines-document { font-size: 1rem; }
+  .guidelines-document-header { grid-template-columns: 80px minmax(0, 1fr); gap: 16px; }
+  .guidelines-source-logo { grid-row: auto; }
+  .guidelines-source-logo img { width: 80px; }
+  .guidelines-document .guidelines-subtitle { grid-column: 1 / -1; margin-top: 0; }
+  .guidelines-document h2 { margin-top: 38px; padding-top: 28px; }
+  .guidelines-document h2[id],
+  .guidelines-document h3[id] { scroll-margin-top: 115px; }
+  .guidelines-code { padding: 15px; }
+}

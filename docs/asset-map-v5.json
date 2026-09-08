@@ -1,0 +1,46 @@
+[
+  {
+    "key": "biostimulant-cultures",
+    "source": "image1.png",
+    "asset": "assets/research/biostimulant-culture-plates-v5.webp",
+    "size": [
+      892,
+      432
+    ],
+    "transform": "none",
+    "source_sha256": "38d1d29a4578950d82dd02693b9a645aa8c95a6f43e7642c6780217092565e30"
+  },
+  {
+    "key": "soil-corn-concept",
+    "source": "image2.png",
+    "asset": "assets/research/soil-microbiome-corn-health-v5.webp",
+    "size": [
+      451,
+      554
+    ],
+    "transform": "none",
+    "source_sha256": "b07de29a131c61d7c5ceb2e8059b5956ff1591669853b9c3a0eb4a94952575a3"
+  },
+  {
+    "key": "fungal-culture",
+    "source": "image3.png",
+    "asset": "assets/research/fungal-culture-v5.webp",
+    "size": [
+      548,
+      730
+    ],
+    "transform": "none",
+    "source_sha256": "5945787db9a9ebba39bc231b268c61bb631db99ad0586cf3de61688967cf64bd"
+  },
+  {
+    "key": "culture-comparison",
+    "source": "image4.png",
+    "asset": "assets/research/culture-comparison-v5.webp",
+    "size": [
+      583,
+      322
+    ],
+    "transform": "none",
+    "source_sha256": "7d482c0765f40dad1b1d5adf154e842b41aa8135c01e2952ac4919abcb6a10e2"
+  }
+]

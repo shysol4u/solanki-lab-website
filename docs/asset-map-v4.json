@@ -1,0 +1,90 @@
+[
+  {
+    "key": "group-lab",
+    "source": "image1.jpeg",
+    "asset": "assets/team/group-laboratory-v4.webp",
+    "size": [
+      1077,
+      805
+    ],
+    "transform": "none",
+    "source_sha256": "edf8cd7e0c56a638480da22b91eeb78bb4be6c29db807c102a4dba983e1c5629"
+  },
+  {
+    "key": "group-team",
+    "source": "image2.jpeg",
+    "asset": "assets/team/group-team-v4.webp",
+    "size": [
+      1387,
+      1040
+    ],
+    "transform": "none",
+    "source_sha256": "bf08fe95af74e9cd233c1b72000298fe070c3d49d2d95232e3e14e01f1b69bab"
+  },
+  {
+    "key": "dsrna",
+    "source": "image3.png",
+    "asset": "assets/research/dsrna-attachment-v4.webp",
+    "size": [
+      437,
+      313
+    ],
+    "transform": "none",
+    "source_sha256": "3ea6c65f344c902011470865998f407ff95d4796f8b720a8258f2a1f5234111a"
+  },
+  {
+    "key": "rpg5",
+    "source": "image4.png",
+    "asset": "assets/research/rpg5-nlr-id-v4.webp",
+    "size": [
+      1821,
+      655
+    ],
+    "transform": "none",
+    "source_sha256": "ff6881b8780aa11a78a19351ab90c23ce3da5e00bbc16106dc2a22b1ef5fe9e7"
+  },
+  {
+    "key": "field-outreach",
+    "source": "image5.jpeg",
+    "asset": "assets/outreach/stakeholder-engagement-v4.webp",
+    "size": [
+      1113,
+      834
+    ],
+    "transform": "none",
+    "source_sha256": "858b021fb4717e4f2e5180d91f6b2180a1c578ee5f98c83012b8bc65b726cf83"
+  },
+  {
+    "key": "shyam-solanki",
+    "source": "image6.jpeg",
+    "asset": "assets/team/shyam-solanki-v4.webp",
+    "size": [
+      567,
+      1215
+    ],
+    "transform": "90 degrees clockwise to match the Word drawing rotation",
+    "source_sha256": "9f0dd741a9b57de78fae7266c19089c545d3c5eb1aeda0212edf85d755fde148"
+  },
+  {
+    "key": "mrinmoy-sarker",
+    "source": "image7.png",
+    "asset": "assets/team/mrinmoy-sarker-v4.webp",
+    "size": [
+      668,
+      682
+    ],
+    "transform": "none",
+    "source_sha256": "ed6b963506e23efb741ddc7a0c3c99bd1d2ba7e472ef18b2b0f6b4360bc8998d"
+  },
+  {
+    "key": "arsalan-quresh",
+    "source": "image8.png",
+    "asset": "assets/team/arsalan-quresh-v4.webp",
+    "size": [
+      402,
+      542
+    ],
+    "transform": "none",
+    "source_sha256": "c22e12781e26b3e4d99600e96639225b5b73aa0e20f284505c45d7fc7e5b874d"
+  }
+]
