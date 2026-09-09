@@ -1,4 +1,4 @@
-# Solanki Lab website
+# Solanki Lab
 
 Functional Genomics of Plant–Microbe–Soil Interactions · South Dakota State University
 
