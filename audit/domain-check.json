@@ -1,12 +1,15 @@
 {
-  "checked_date_utc": "2026-09-08",
+  "checked_date_utc": "2026-09-09",
   "requested_final_url": "https://solankilab.org/",
-  "current_verified_url": "https://shysol4u.github.io/solanki-lab-website/",
+  "initial_launch_verified_url": "https://shysol4u.github.io/solanki-lab-website/",
+  "initial_launch_verified_date_utc": "2026-09-08",
   "rdap": {
     "url": "https://rdap.publicinterestregistry.org/rdap/domain/solankilab.org",
     "bootstrap_source": "https://data.iana.org/rdap/dns.json",
-    "http_status": 404,
-    "title": "Object not found"
+    "http_status": 200,
+    "registrar": "Porkbun LLC",
+    "registration_date_utc": "2026-09-09T02:55:27.159Z",
+    "expiration_date_utc": "2027-09-09T02:55:27.159Z"
   },
   "dns": {
     "resolver": "https://dns.google/resolve",
@@ -14,32 +17,78 @@
       {
         "name": "solankilab.org",
         "type": "A",
-        "status": 3,
-        "result": "NXDOMAIN"
+        "status": 0,
+        "answers": ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"]
       },
       {
         "name": "solankilab.org",
         "type": "NS",
-        "status": 3,
-        "result": "NXDOMAIN"
+        "status": 0,
+        "answers": ["curitiba.ns.porkbun.com", "fortaleza.ns.porkbun.com", "maceio.ns.porkbun.com", "salvador.ns.porkbun.com"]
+      },
+      {
+        "name": "www.solankilab.org",
+        "type": "CNAME",
+        "status": 0,
+        "answers": ["shysol4u.github.io"]
+      },
+      {
+        "name": "_github-pages-challenge-shysol4u.solankilab.org",
+        "type": "TXT",
+        "status": 0,
+        "answers": ["858138948448037329da0c5b9dc858"]
       },
       {
         "name": "solankilab.org",
-        "type": "MX",
+        "type": "AAAA",
+        "status": 0,
+        "answers": []
+      },
+      {
+        "name": "solankilab.org",
+        "type": "CAA",
+        "status": 0,
+        "answers": []
+      },
+      {
+        "name": "*.solankilab.org",
+        "type": "CNAME",
         "status": 3,
+        "answers": [],
         "result": "NXDOMAIN"
       }
     ]
   },
-  "interpretation": "No registry registration record or DNS delegation was found. Registrar checkout must confirm availability and final price.",
-  "domain_purchased": false,
-  "custom_domain_connected": false,
-  "custom_domain_https_verified": false,
-  "remaining": [
-    "Owner-approved registration expense and owner-controlled registrar account",
-    "GitHub ownership TXT verification",
-    "Pages custom-domain setting and apex/www DNS configuration",
-    "HTTPS provisioning, metadata update, deployment and public verification"
+  "interpretation": "Owner-controlled Porkbun registration, GitHub ownership verification, apex/www DNS, enforced HTTPS, permanent redirects, successful deployment, and exact public files are verified. The original wildcard parking record is absent from public DNS.",
+  "domain_purchased_by_owner": true,
+  "owner_control_verified": true,
+  "github_account_ownership_verified": true,
+  "github_pages_custom_domain": "solankilab.org",
+  "custom_domain_dns_connected": true,
+  "custom_domain_https_verified": true,
+  "github_enforce_https_checked_and_persisted": true,
+  "wildcard_parking_cleanup_verified": true,
+  "website_commit": "2588a38a8ee313079888d9a09c02a94d1a9ee03a",
+  "release_tag": "v6.0.1",
+  "release_url": "https://github.com/shysol4u/solanki-lab-website/releases/tag/v6.0.1",
+  "workflow_run": {
+    "id": 34346389956,
+    "url": "https://github.com/shysol4u/solanki-lab-website/actions/runs/34346389956",
+    "status": "completed",
+    "conclusion": "success"
+  },
+  "public_https_files_verified": 60,
+  "all_public_files_match_expected_bytes": true,
+  "redirects": [
+    {"url": "http://solankilab.org/", "status": 301, "location": "https://solankilab.org/"},
+    {"url": "http://www.solankilab.org/", "status": 301, "location": "https://solankilab.org/"},
+    {"url": "https://www.solankilab.org/", "status": 301, "location": "https://solankilab.org/"},
+    {"url": "https://shysol4u.github.io/solanki-lab-website/", "status": 301, "location": "https://solankilab.org/"}
   ],
-  "production_configuration_changed": false
+  "original_parking_records": [
+    {"type": "ALIAS", "host": "solankilab.org", "answer": "pixie.porkbun.com", "ttl": 600},
+    {"type": "CNAME", "host": "*.solankilab.org", "answer": "pixie.porkbun.com", "ttl": 600}
+  ],
+  "remaining_domain_work": [],
+  "production_configuration_changed": true
 }

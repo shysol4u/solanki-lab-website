@@ -1,6 +1,6 @@
 # Master instruction map
 
-This map follows the 45 numbered sections of the supplied master technical instructions. **Public GitHub Pages deployment and exact HTTPS comparison are verified as of 2026-09-08. Desktop browser checks passed; phone/tablet visual testing and other limits remain explicitly recorded in `LAUNCH_STATUS.md`.** The source master document stays in the private backup.
+This map follows the 45 numbered sections of the supplied master technical instructions. **The requested https://solankilab.org domain, free GitHub Pages deployment, and exact HTTPS comparison are verified as of 2026-09-09. Desktop browser checks passed; phone/tablet visual testing and other limits remain explicitly recorded in `LAUNCH_STATUS.md`.** The source master document stays in the private backup.
 
 | Section | Implementation / evidence | Status |
 | --- | --- | --- |
@@ -9,8 +9,8 @@ This map follows the 45 numbered sections of the supplied master technical instr
 | 3. Zero-cost hosting and deployment | Public GitHub Pages; standard Ubuntu Actions; no paid application service | Active and verified; original standard-runner workflow succeeded |
 | 4. GitHub Pages adaptation | Existing relative links work under the project path; no framework migration | Passed source checks |
 | 5. Alternative hosting | No alternative needed for this static architecture | Not needed |
-| 6. Cost control | No purchases, subscriptions, paid runners, or spending increases | Applied |
-| 7. Custom domain | Owner requested `https://solankilab.org`; `DOMAIN_SETUP.md` contains the prepared connection settings | Registry record absent; registration and DNS connection pending |
+| 6. Cost control | Owner purchased the domain separately; hosting/deployment remain free, with no paid runners or added subscriptions | Applied |
+| 7. Custom domain | Owner purchased `solankilab.org` at Porkbun; GitHub ownership, apex/www DNS, enforced HTTPS, redirects, and exact public bytes verified | Complete |
 | 8. Minimal user intervention | Owner connection confirmed; launch completed with the approved package | GitHub connection and browser sign-in completed |
 | 9. GitHub master copy | Target owner `shysol4u`, repository `solanki-lab-website`, branch `main` | Uploaded; main is the master source |
 | 10. Complete editable source | Generator, Guidelines DOCX, CSS, JavaScript, all assets, generated HTML, workflow | Included |
@@ -18,8 +18,8 @@ This map follows the 45 numbered sections of the supplied master technical instr
 | 12. README.md | Actual architecture, setup, build, preview, upload, deployment, editing, dependencies | Included |
 | 13. WEBSITE_MAINTENANCE.md | Existing content variables, sections, files, and maintenance procedure | Included |
 | 14. Easy content modification | Retain centralized content in `scripts/build-pages.py`; keep animation code separate | Preserved/documented |
-| 15. CHANGELOG.md | Existing Versions 1–6 plus technical release `v6.0.0` | Included |
-| 16. Version control | Main branch, immutable baseline and release tags; future substantial work on branches | Public history, both tags, and rollback branch confirmed |
+| 15. CHANGELOG.md | Existing Versions 1–6, initial launch `v6.0.0`, and custom-domain launch `v6.0.1` | Included |
+| 16. Version control | Main branch, immutable baseline and release tags; future substantial work on branches | Original tags/rollback branch retained; `v6.0.1` confirms the custom-domain release |
 | 17. Automatic deployment | Push to main builds, validates, and deploys; pull requests only validate | Successful real build and deployment |
 | 18. Future ChatGPT maintenance | `AGENTS.md` requires latest repository inspection and targeted changes | Included |
 | 19. Future request example | Maintenance guide explains how to locate, edit, build, inspect, and publish an authorized change | Included |
@@ -43,11 +43,11 @@ This map follows the 45 numbered sections of the supplied master technical instr
 | 37. Pre-launch quality control | Build, content, internal links, assets, script syntax, simulated menus/orbits | Local, public HTTPS, and desktop checks passed; device QA limits recorded |
 | 38. Deployed comparison | Exact original-source comparison passed; served-byte verification script ready | All 60 served files match exactly over HTTPS |
 | 39. Repair and rollback | `BACKUPS.md` documents reverting and recovery without destroying history | Included |
-| 40. Domain ownership | Owner-controlled GitHub confirmed; requested domain must be registered in the owner’s registrar account | Domain purchase approval and registration pending |
-| 41. Make the website live | Repository created, complete source imported, Pages/HTTPS active, public and desktop checks recorded | GitHub Pages address verified; requested custom domain pending |
-| 42. Definition of finished | Successful GitHub Pages launch is supported by workflow/HTTPS evidence; final domain and remaining QA limits are explicit | GitHub Pages launch verified; solankilab.org connection remains open |
+| 40. Domain ownership | Owner-controlled GitHub and Porkbun registration confirmed; GitHub DNS TXT verification succeeded | Verified 2026-09-09; retain the TXT record |
+| 41. Make the website live | Repository created, complete source imported, Pages/HTTPS active, public and desktop checks recorded | Live at https://solankilab.org/ |
+| 42. Definition of finished | Successful custom-domain launch supported by workflow, DNS, HTTPS, redirects, exact bytes, and desktop evidence | Deployment complete; remaining device QA limits explicitly retained |
 | 43. Future AI maintenance rule | Latest repository first; no reconstruction from memory; targeted updates | Included in AGENTS.md |
-| 44. Long-term model | Owner GitHub master → checked main updates → free Pages → requested solankilab.org | GitHub/Pages operational; domain pending |
-| 45. Final operating principle | Exact approved site retained; verification limits and remaining domain work documented | GitHub launch complete; domain registration approval/control needed |
+| 44. Long-term model | Owner GitHub master → checked main updates → free Pages → solankilab.org | Operational and verified |
+| 45. Final operating principle | Exact approved site retained; deployment evidence, rollback, and QA limits documented | Requested custom-domain launch complete |
 
 Detailed source, HTTPS, and browser evidence is in `audit/latest-check.json`, `audit/deployment-check.json`, and `audit/browser-check.json`. `LAUNCH_STATUS.md` records the public launch and remaining QA limitations. Static checks and simulated interactions are not described as real device verification.

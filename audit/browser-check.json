@@ -32,5 +32,23 @@
     "Reduced-motion, mobile menu, and detailed orbit hover/focus behavior are covered by the existing source/simulated checks, not claimed as real device tests.",
     "Third-party external destinations were not exhaustively tested; approved hrefs are unchanged."
   ],
-  "console_notes": "Captured errors originated in the cloud-browser extension; no website error is inferred from those extension messages."
+  "console_notes": "Captured errors originated in the cloud-browser extension; no website error is inferred from those extension messages.",
+  "custom_domain_verification": {
+    "verified_date_utc": "2026-09-09",
+    "browser": "Cloud Chrome",
+    "viewport_width_css_pixels": 1363,
+    "public_url": "https://solankilab.org/",
+    "site_commit": "2588a38a8ee313079888d9a09c02a94d1a9ee03a",
+    "pages_opened": ["index.html", "research.html", "team.html", "outreach.html", "funding.html", "recruitment.html", "guidelines.html"],
+    "passed": [
+      "All seven pages opened at the final HTTPS domain with the expected canonical URL and no horizontal overflow",
+      "Homepage screenshot preserves the logo, layout, particle/DNA background, and motion control",
+      "Pause motion changes to Resume motion and resumes successfully",
+      "Research dropdown opens; Escape closes it",
+      "Native Guidelines Contents opens; Guidelines screenshot inspected",
+      "Guidelines logo loaded; 13 h2 sections, 7 h3 subsections, and 4 preformatted blocks",
+      "GitHub Pages Enforce HTTPS is checked and remains checked after reload"
+    ],
+    "limits": "The existing phone/tablet, physical-device, cross-browser, performance, and exhaustive external-link limitations above remain."
+  }
 }

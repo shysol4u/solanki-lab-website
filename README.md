@@ -4,7 +4,7 @@ Functional Genomics of Plant–Microbe–Soil Interactions · South Dakota State
 
 This repository contains the complete editable website approved as **Version 6**, together with free GitHub Pages deployment and maintenance instructions. The migration preserves all seven visible page bodies and all 50 other approved website files. Publishing metadata, a sitemap, a robots file, and a copyright notice are the only website additions; they do not change the visible design.
 
-**Public launch verified, 2026-09-08:** [Open the website](https://shysol4u.github.io/solanki-lab-website/). The original workflow succeeded, and all 60 served files match the prepared source exactly over HTTPS. Desktop checks passed; phone/tablet visual testing remains unverified. See `LAUNCH_STATUS.md` for evidence and limits.
+**Live and verified on 2026-09-09: [solankilab.org](https://solankilab.org/).** The GitHub Pages workflow succeeded and all 60 public files match the prepared source exactly over HTTPS. HTTP, `www`, and the original GitHub address redirect to the secure final address. All seven approved page bodies and 50 approved non-HTML files remain unchanged. Desktop checks passed; phone/tablet visual testing remains unverified. See `LAUNCH_STATUS.md` for evidence and limits.
 
 `MASTER_INSTRUCTION_MAP.md` maps all 45 instruction sections to their implementation and any remaining verification.
 
@@ -12,13 +12,14 @@ This repository contains the complete editable website approved as **Version 6**
 | --- | --- |
 | Owner account requested by the lab | `shysol4u` |
 | Repository | `shysol4u/solanki-lab-website` |
-| Public free address | `https://shysol4u.github.io/solanki-lab-website/` |
-| Requested final domain | `https://solankilab.org`; registration and DNS connection pending |
+| Original free address | `https://shysol4u.github.io/solanki-lab-website/`; redirects to the configured custom domain |
+| Final website address | `https://solankilab.org/`; ownership, DNS, enforced HTTPS, redirects, and deployment verified |
 | Production branch | `main` |
 | Hosting | GitHub Pages |
 | Deployment | `.github/workflows/pages.yml` |
 | Approved visual baseline | Version 6; tag `approved-v6` |
 | Initial technical release | `v6.0.0`; publicly deployed and verified, with browser-testing limits in `LAUNCH_STATUS.md` |
+| Custom-domain release | `v6.0.1`; verified at `https://solankilab.org/`; original rollback tags retained |
 
 ## How the site works
 
@@ -89,7 +90,7 @@ GitHub Pages supports static HTML/CSS/JavaScript and is available for public rep
 
 ## Domain, ownership, and backups
 
-**https://solankilab.org** : final website address on 2026-09-08. 
+**https://solankilab.org** is the final website address requested on 2026-09-08. The owner purchased the domain from Porkbun on 2026-09-09. The domain is verified in the `shysol4u` GitHub account, the repository's custom domain is set, and public DNS returns GitHub's four A records and the `www` CNAME. `DOMAIN_SETUP.md` records the configuration and verification. The owner retains the registration; GitHub Pages hosting and deployment remain free.
 
 `COPYRIGHT.md` and `ASSET_SOURCES.md` distinguish lab content, university material, and third-party assets. Unverified rights are marked; no license is guessed.
 
