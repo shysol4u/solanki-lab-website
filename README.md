@@ -76,7 +76,6 @@ After editing the source, run the build/check commands, inspect the requested ch
 
 ## Initial GitHub launch
 
-The site owner needs to authorize GitHub access once. The maintainer then:
 
 1. Confirms the authenticated owner is `shysol4u` and checks whether `solanki-lab-website` already exists. Inspect and preserve an existing repository before changing it.
 2. Creates a **public** repository for the free GitHub Pages path, without enabling paid products, Codespaces, LFS, or trials.
@@ -90,10 +89,10 @@ GitHub Pages supports static HTML/CSS/JavaScript and is available for public rep
 
 ## Domain, ownership, and backups
 
-The owner requested **https://solankilab.org** as the final website address on 2026-09-08. The registry currently returns no registration record and public DNS returns NXDOMAIN, so the domain is not connected yet. `DOMAIN_SETUP.md` records the prepared DNS settings and remaining registration step. The verified GitHub Pages address remains active until the domain is registered under the owner’s control and DNS/HTTPS are ready. Domain purchases require explicit approval under `AGENTS.md`.
+**https://solankilab.org** : final website address on 2026-09-08. 
 
 `COPYRIGHT.md` and `ASSET_SOURCES.md` distinguish lab content, university material, and third-party assets. Unverified rights are marked; no license is guessed.
 
 The downloadable source ZIP preserves this repository's files. A separate private backup holds the original assets, original supplied documents, and Git bundles containing earlier approved versions. Never upload the private backup to this public repository. See `BACKUPS.md` for recovery.
 
-After initial upload, GitHub `main` is the source of truth. Another ChatGPT session should start from the latest repository and read `AGENTS.md`, not recreate the website from memory.
+After initial upload, GitHub `main` is the source of truth. Update should start from the latest repository and read `AGENTS.md`, not recreate the website from memory.
