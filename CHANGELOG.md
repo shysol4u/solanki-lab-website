@@ -2,6 +2,13 @@
 
 The lab's established Version 1–6 names are preserved. `v6.0.0` denotes the technical GitHub launch package for the approved Version 6 design, not a redesigned Version 7.
 
+## solankilab.org connection — 2026-09-09
+
+- Confirm the owner's Porkbun registration and verify `solankilab.org` in the `shysol4u` GitHub account using the retained DNS TXT record.
+- Set the repository's Pages custom domain, replace the apex parking address with GitHub's four A records, and add the `www` CNAME. Public DNS returns the expected records.
+- Change only the publishing address in `site-config.json`, generated canonical/social metadata, sitemap, and robots file. All seven approved page bodies and 50 approved non-HTML files remain unchanged; all 3,978 checks and documented Node checks pass.
+- Preserve existing history and rollback tags. Custom-domain HTTPS is available and enforced. The final public byte comparison is being verified; the completed deployment evidence belongs in `LAUNCH_STATUS.md`.
+
 ## Public launch verification — 2026-09-08
 
 - Create the owner-controlled public repository and import the exact approved baseline and all 92 prepared launch files.

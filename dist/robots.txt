@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shysol4u.github.io/solanki-lab-website/sitemap.xml
+Sitemap: https://solankilab.org/sitemap.xml
