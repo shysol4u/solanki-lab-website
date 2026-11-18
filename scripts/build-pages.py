@@ -79,8 +79,11 @@ home=f'''<section class="hero"><p class="eyebrow">FUNCTIONAL GENOMICS · PLANT�
 <section class="content outreach-preview"><div><p class="eyebrow">04 / OUTREACH</p><h2>Science in the community.</h2><p>Hands-on genomics education, conversations in the field, and local industry partnerships connect our laboratory with the people it serves.</p></div><div class="outreach-links"><a href="outreach.html#gen-ng">GeN-G &amp; GeN-G BRING <span>Genomics for the next generation ↗</span></a><a href="outreach.html#field-contact">Field Contact <span>Across South Dakota ↗</span></a><a href="outreach.html#industry">Industry Partnerships <span>Solutions shaped by farmer needs ↗</span></a></div></section>'''
 news_items=sorted(json.loads((ROOT/'docs/lab-news.json').read_text()), key=lambda item: item['date'], reverse=True)
 def story(n):
-    day = date.fromisoformat(n["date"])
-    return f'<li><time datetime="{day.isoformat()}">{day:%B} {day.day}, {day.year}</time> — {e(n["body"])} <a href="{e(n["source"])}">{e(n["source_label"])} ↗</a></li>'
+    stamp = n["date"]
+    month_only = len(stamp) == 7
+    day = date.fromisoformat(stamp + "-01" if month_only else stamp)
+    label = f"{day:%B %Y}" if month_only else f"{day:%B} {day.day}, {day.year}"
+    return f'<li><time datetime="{stamp}">{label}</time> — {e(n["body"])} <a href="{e(n["source"])}">{e(n["source_label"])} ↗</a></li>'
 page('news.html','Lab News','News from the Solanki Lab.','<section class="wrap news-list"><h1>Lab News</h1><ul>'+''.join(story(n) for n in news_items)+'</ul></section>','Lab News')
 page('index.html' ,'Functional Genomics & Plant–Microbe–Soil Interactions','Solanki Lab at South Dakota State University explores functional genomics and plant–microbe–soil interactions, from molecular discovery to crop resilience.',home,home=True)
 
