@@ -46,3 +46,5 @@
 .recruitment-section p:last-child{margin-bottom:0}
 .recruitment-section .email{font-size:inherit}
 @media(max-width:650px){.funding-summary{padding-bottom:60px}.funding-summary .page-lead,.recruitment-section p{font-size:1rem}.recruitment-section{padding:28px 0}.recruitment-content{padding-bottom:50px}}
+
+.group-portrait.wenona{width:min(100%,34rem);margin-inline:auto}.team-preview-photos .team-preview-photo{width:min(100%,30rem);margin-inline:auto}.team-preview-photo img,.group-portrait.wenona img{display:block;height:auto}.news-list{padding-block:3rem}.news-list h1{font-size:2rem;margin:0 0 1rem}.news-list p{line-height:1.65}.news-list a{text-decoration:underline;text-underline-offset:.18em}

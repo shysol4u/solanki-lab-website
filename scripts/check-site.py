@@ -77,7 +77,7 @@ def main():
     require(base.startswith('https://'), 'Production canonical URLs must use HTTPS')
     documents = {p.name: Document(p.read_text(encoding='utf-8')) for p in OUT.glob('*.html')}
     require(set(documents) == {'index.html', 'research.html', 'team.html', 'outreach.html',
-                               'funding.html', 'recruitment.html', 'guidelines.html'}, 'All seven approved pages exist')
+                               'funding.html', 'recruitment.html', 'guidelines.html', 'news.html'}, 'All current pages exist')
     total_references = 0
     for name, document in documents.items():
         nodes = list(document.root.walk())
@@ -153,7 +153,7 @@ def main():
         require((OUT / filename).is_file(), f'Publishing support file exists: {filename}')
     sitemap = ET.parse(OUT / 'sitemap.xml')
     locations = {n.text for n in sitemap.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
-    require(locations == {base + ('' if p == 'index.html' else p) for p in documents}, 'Sitemap contains all seven canonical pages')
+    require(locations == {base + ('' if p == 'index.html' else p) for p in documents}, 'Sitemap contains all canonical pages')
     files = [p for p in OUT.rglob('*') if p.is_file()]
     require(not any(p.is_symlink() for p in OUT.rglob('*')), 'Static deployment has no symlinks')
     require(sum(p.stat().st_size for p in files) < 1024**3, 'Published website is below the GitHub Pages size limit')
