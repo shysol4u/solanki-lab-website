@@ -48,3 +48,18 @@
 @media(max-width:650px){.funding-summary{padding-bottom:60px}.funding-summary .page-lead,.recruitment-section p{font-size:1rem}.recruitment-section{padding:28px 0}.recruitment-content{padding-bottom:50px}}
 
 .group-portrait.wenona{width:min(100%,34rem);margin-inline:auto}.team-preview-photos .team-preview-photo{width:min(100%,30rem);margin-inline:auto}.team-preview-photo img,.group-portrait.wenona img{display:block;height:auto}.news-list{padding-block:3rem}.news-list h1{font-size:2rem;margin:0 0 1rem}.news-list p{line-height:1.65}.news-list a{text-decoration:underline;text-underline-offset:.18em}
+
+/* DNA Detectives article inside the existing GeN-G section only. */
+.bring-story{padding:30px 0 46px;border-top:1px solid var(--line)}
+.bring-story h3{font-size:clamp(1.45rem,2.5vw,2rem);margin:0 0 18px}
+.bring-story>p:not(.eyebrow){max-width:900px;line-height:1.75;color:#c4d7e2}
+.bring-photos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:24px}
+.bring-photos figure{margin:0;min-width:0}
+.bring-photos img{display:block;width:100%;height:230px;object-fit:cover;border-radius:9px}
+.bring-more{margin-top:18px}.bring-more summary{cursor:pointer;color:#bfe7f4}
+@media(max-width:650px){.bring-photos{grid-template-columns:repeat(2,minmax(0,1fr))}.bring-photos img{height:150px}}
+
+.bring-graphic{margin:18px 0 26px;max-width:900px}
+.bring-graphic img{display:block;width:100%;height:auto;border-radius:8px}
+.bring-banner{width:min(463px,100%)}
+.bring-monsters{margin-top:28px;background:#fff}
